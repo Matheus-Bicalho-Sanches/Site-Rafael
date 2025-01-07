@@ -1,11 +1,12 @@
 'use client'
 
+import { ReactNode } from 'react'
 import { motion } from 'framer-motion'
 
 interface Benefit {
   title: string
   description: string
-  icon: JSX.Element
+  icon: ReactNode
 }
 
 export default function Benefits() {
