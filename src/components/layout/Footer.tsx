@@ -13,8 +13,8 @@ export default function Footer() {
   ]
 
   const contactInfo = {
-    phone: '(92) 9445-3184',
-    email: 'contato@psicologoarthur.com',
+    phone: '(00) 00000-0000',
+    email: 'contato@psicologo.com',
     schedule: 'Segunda à Sexta das 8:00 as 21:00'
   }
 
@@ -98,7 +98,7 @@ export default function Footer() {
             Copyright © {new Date().getFullYear()}. Todos os Direitos Reservados
           </p>
           <p className="text-sm mt-2">
-            <span className="font-semibold">Arthur César</span> | Psicólogo Clínico – CRP 20/12140
+            <span className="font-semibold">Dr. Rafael Silva</span> | Psicólogo Clínico – CRP 00/00000
           </p>
         </div>
       </div>

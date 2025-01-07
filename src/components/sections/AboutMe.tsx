@@ -23,10 +23,10 @@ export default function AboutMe() {
             Sobre Mim
           </h2>
           <h3 className="text-2xl md:text-3xl font-bold text-blue-600">
-            Arthur César
+            Dr. Rafael Silva
           </h3>
           <p className="text-xl text-gray-600">
-            Melo de Souza
+            Psicólogo Clínico
           </p>
         </motion.div>
 
@@ -40,7 +40,7 @@ export default function AboutMe() {
           >
             <div className="bg-white rounded-lg p-6 shadow-lg">
               <p className="text-gray-700 mb-4">
-                <span className="font-semibold text-gray-900">Olá, tudo bem?</span> Seja bem-vindo(a), aqui é o Arthur, sou graduado em psicologia com formações em:
+                <span className="font-semibold text-gray-900">Olá, tudo bem?</span> Seja bem-vindo(a), sou graduado em psicologia com formações em:
               </p>
               <ul className="space-y-3">
                 {qualifications.map((qual, index) => (

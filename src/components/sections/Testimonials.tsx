@@ -10,28 +10,28 @@ interface Testimonial {
 export default function Testimonials() {
   const testimonials: Testimonial[] = [
     {
-      content: "O arthur é um terapeuta fora da curva, me ajudou a entender como funciona minha mente e isso foi MUITO libertador. Além da minha ansiedade ter diminuído, sempre sei o porquê ela está aumentando kkkk, me sinto no controle e acho que isso vai me ajudar pra sempre, obrigada <3",
-      author: "Maria Tenório"
+      content: "O Dr. Rafael é um terapeuta fora da curva, me ajudou a entender como funciona minha mente e isso foi MUITO libertador. Além da minha ansiedade ter diminuído, sempre sei o porquê ela está aumentando, me sinto no controle e acho que isso vai me ajudar pra sempre, obrigada!",
+      author: "Ana S."
     },
     {
       content: "Um excelente profissional, atencioso, cuidadoso, pontual, gentil e é notório o quanto estar sempre buscando aperfeiçoamento em sua área. Um abraço!",
-      author: "William Rodrigues"
+      author: "Pedro M."
     },
     {
-      content: "Sempre procurei uma terapia mais científica e você conseguiu unir isso com um ambiente acolhedor, obrigado por ter me ajudado a ser mais feliz 🤍.",
-      author: "Luan Cavalcante"
+      content: "Sempre procurei uma terapia mais científica e você conseguiu unir isso com um ambiente acolhedor, obrigado por ter me ajudado a ser mais feliz.",
+      author: "Lucas R."
     },
     {
-      content: "Não tem preço o poder que o autoconhecimento tem, e você conseguiu me ajudar nessa aventura. Nunca vou esquecer das discussões e reflexões que fazíamos. Obrigado novamente querido.",
-      author: "Paulo Fagundes"
+      content: "Não tem preço o poder que o autoconhecimento tem, e você conseguiu me ajudar nessa aventura. Nunca vou esquecer das discussões e reflexões que fazíamos. Obrigado novamente!",
+      author: "Carla B."
     },
     {
       content: "Por ser psicólogo também, já sabia desde o começo você era um profissional diferente da grande maioria. Agradeço bastante pelo tempo que passamos juntos.",
-      author: "Maurício Junior"
+      author: "Dr. João P."
     },
     {
-      content: "Arthur, meu amigo você sabe que eu não acreditava muito nesse negócio de terapia, mas me dei essa chance de experimentar e essa foi a melhor coisa que decidi adotar na minha vida. Você tem me ajudado muito a superar minhas dificuldades e entender minhas emoções, obrigado mais uma vez meu amigo.",
-      author: "Felipe Aguiar"
+      content: "Doutor, você sabe que eu não acreditava muito nesse negócio de terapia, mas me dei essa chance de experimentar e essa foi a melhor coisa que decidi adotar na minha vida. Você tem me ajudado muito a superar minhas dificuldades e entender minhas emoções.",
+      author: "Marcos A."
     }
   ]
 
